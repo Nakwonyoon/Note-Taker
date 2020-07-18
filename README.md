@@ -18,6 +18,11 @@ Making Note pad to write down something that you wanted and also can do save it 
 Npm install
 
 ## Usage
+* This is the home page and you can go to the Note page with clicking "Get Start" button
+![](./public/assets/image/home.png)
+
+There is a delete button to get rid of the data.
+![](./public/assets/image/img.png)
 
 
 ## Licnese 
